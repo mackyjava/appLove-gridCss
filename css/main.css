@@ -122,3 +122,17 @@ nav {
 .margen {
   margin-top: 65px;
 }
+#work{
+  text-align: center;
+}
+#work .container {
+  height: 1600px;
+}
+
+footer {
+  height: 70px;
+  background-color: #373B47;
+  color: white;
+  padding-top: 7px;
+  text-align: center;
+}
