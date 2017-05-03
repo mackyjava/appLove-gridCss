@@ -104,3 +104,21 @@ nav {
 .menu .container {
   margin-top: 35px;
 }
+#services {
+  background-color: #F17C72;
+  text-align: center;
+  color:#fff;
+  padding: 70px 7px;
+  height: 650px;
+}
+.box-services {
+  width: 30px;
+  margin-top: 63px;
+}
+.text-services{
+ font-size: 35px;
+ letter-spacing: 2px;
+}
+.margen {
+  margin-top: 65px;
+}
