@@ -126,7 +126,7 @@ nav {
   text-align: center;
 }
 #work .container {
-  height: 1600px;
+  height: 900px;
 }
 
 footer {
@@ -135,4 +135,34 @@ footer {
   color: white;
   padding-top: 7px;
   text-align: center;
+}
+/*span{
+  position:absolute;
+  margin-top:  10px;
+  display: none;
+  margin-left: 10px;
+}*/
+#modal {
+  display: none;
+  padding:70px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  position: fixed;
+  background-color: rgba(13,14,12,.7);
+}
+.img0 {
+  width: 50%
+
+}
+.cerrar {
+  font-weight: 700;
+  color: pink;
+  font-size: 30px;
+  padding: 4px;
+  border:1px solid pink;
+  background-color: red;
+  position:absolute;
 }
