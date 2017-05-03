@@ -35,3 +35,72 @@ a {
 a:hover {
   color: #E95853;
 }
+.flex{
+  display: flex;
+}
+.menu {
+  width: 100%;
+  padding: 0px;
+  overflow: auto;
+}
+.logo {
+  float: right;
+  width: 13%;
+  padding-right: 0px;    
+}
+.floatI {
+  float:left;
+}
+.clear {
+  clear: both;
+}
+.link {
+  font-weight: 700;
+  padding: 21px;
+}
+header {
+  width: 100%;
+  position: fixed;
+  background: #fff;
+  top: 0;
+      
+}
+#home {
+  background-image:url(../assets/images/bg-home.jpg);
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  height: 554px;
+  text-align:center;
+  margin-top: 120px;
+}
+#home .container {
+  color: white;
+  padding: 70px;
+}
+.text-home {
+  font-size: 53px;
+  margin-top: 20px;
+}
+.btn-home {
+  background: #2ECC71;
+  color: #fff;
+  padding: 11px 20px;
+  border-radius: 1px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-top: 85px;
+  font-size: 14px;
+}
+.altura {
+  height: 120px;
+  margin-top: 55px;
+}
+nav {
+  width: 100%;
+  max-width: 1200px;
+  background: white;
+}
+.menu .container {
+  margin-top: 35px;
+}
